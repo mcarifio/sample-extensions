@@ -1,0 +1,1 @@
+[tutorial](https://developer.thunderbird.net/add-ons/examples/hello-world-add-on) with [github sources for the text](https://github.com/thundernest/developer-docs/tree/master/add-ons/examples), particularly the [folder layout](https://developer.thunderbird.net/add-ons/examples/hello-world-add-on#testing-the-extension)
